@@ -234,7 +234,7 @@
   .additional-info__education-university-durability {
     color: var(--durability-text-color);
     text-align: left;
-    margin-bottom: 10px;
+    margin-bottom: 10px; 
     font-size: 15px;
   }
   
